@@ -1,6 +1,6 @@
 # Graphic design for Solarus projects
 
-[![License](https://img.shields.io/badge/license-GPLv3-brightgreen.svg)](https://www.gnu.org/copyleft/gpl.html)
+[![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 You will find here the source files (AI, EPS) of the pictures made for Solarus, i.e logos and other visual communication medias.
 
